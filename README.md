@@ -1,4 +1,4 @@
-# FingerScan Blood Classifie
+# FingerScan Blood Classifier
 
 This is a **Streamlit** application for detecting blood groups from fingerprint images using a pre-trained **Keras (TensorFlow) model**.
 
